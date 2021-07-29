@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chetan26s
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me ...
 
 <!---
